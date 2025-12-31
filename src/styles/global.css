@@ -163,7 +163,7 @@ code{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Libera
   cursor:pointer;
   text-align:center;
 }
-.qrBox{background:#fff; border-radius: 18px; padding: 16px; display:inline-block; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 4px 12px rgba(0,0,0,0.1)}
+.qrBox{background:transparent; border-radius: 18px; padding: 0; display:inline-block; border: none; box-shadow: none}
 .scanRibbon{
   margin: 12px auto 6px;
   width: 75%;
